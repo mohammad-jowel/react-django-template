@@ -1,4 +1,4 @@
-# React Django(Rest Api) Template
+# React Django(REST API) Template
 
 This project is a simple movie catalog application using React for the frontend and Django REST framework for the backend.
 
