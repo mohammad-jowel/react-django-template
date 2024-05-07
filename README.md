@@ -1,5 +1,4 @@
-*React Django Template
-# React-Django Movie Catalog
+#React Django Template
 
 This project is a simple movie catalog application using React for the frontend and Django REST framework for the backend.
 
@@ -11,8 +10,21 @@ This project is a simple movie catalog application using React for the frontend 
 # Installation
  Use the following command to clone the repository to your local machine.
    ```bash
-   git clone <repository-url>```
-
+   git clone <repository-url>
+   ```
 ## Backend Setup
-**Clone the repository:**
-  
+  ```bash
+  cd backend
+  pip install djangorestframework
+  python manage.py migrate
+  python manage.py runserver
+  ```
+
+## Frontend Setup
+  open another terminal
+  ``` bash
+  cd frontend
+  npm install
+  npm run dev
+  ```
+** Open locallhost:5173 in a browser**
