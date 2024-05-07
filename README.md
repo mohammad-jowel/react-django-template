@@ -2,7 +2,7 @@
 
 This project is a simple movie catalog application using React for the frontend and Django REST framework for the backend.
 
-## Example
+## Example Use
 
 - **Get Request**: The React app makes a GET request to localhost:8000/api/ to fetch and render the list of movies.
 - **Post Request**: The React app includes a form that sends a POST request to localhost:8000/api/ to add a new movie to the backend.
