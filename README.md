@@ -10,7 +10,7 @@ This project is a simple movie catalog application using React for the frontend 
 # Installation
  Use the following command to clone the repository to your local machine.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mohammad-jowel/react-django-template.git
    ```
 ## Backend Setup
   ```bash
